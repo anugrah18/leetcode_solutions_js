@@ -36,7 +36,7 @@ class Solution {
 
 // Example usage
 const X = new Solution();
-console.log(X.minimumSwaps([3, 4, 5, 5, 3, 1]));  // Output: 5
+console.log(X.minimumSwaps([3, 4, 5, 5, 3, 1]));
 
 // Time Complexity: O(n), where n is the number of elements in the input list
 // Space Complexity: O(1)
